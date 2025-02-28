@@ -49,13 +49,13 @@ KHOOR ZRUOG
 
 ## Preview
 ### Normal Page
-![Normal Page](./preview-normal.png)
+![Normal Page](./assets/preview-normal.png)
 
 ### Encoding Example
-![Encoding Example](./preview-encoding.png)
+![Encoding Example](./assets/preview-encoding.png)
 
 ### Decoding Example
-![Decoding Example](./preview-decoding.png)
+![Decoding Example](./assets/preview-decoding.png)
 
 ## Author
 Developed by **Yash Yadav**.
